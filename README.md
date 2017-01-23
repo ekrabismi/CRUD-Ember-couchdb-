@@ -19,6 +19,8 @@ You will need the following things properly installed on your computer.
 * change into the new directory
 * `npm install`
 * `bower install`
+* `bower install ember-couchdb-kit`
+
 
 ## Running / Development
 
@@ -47,5 +49,5 @@ Specify what it takes to deploy your app.
 
 * [ember.js](http://emberjs.com/)
 * [ember-cli](http://www.ember-cli.com/)
-* [CRUD] (https://tanzimsaqib.wordpress.com/2015/05/25/crud-with-couchdb-in-node-js/)
+* [CRUD with CouchDB] (https://tanzimsaqib.wordpress.com/2015/05/25/crud-with-couchdb-in-node-js/)
 
