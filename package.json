@@ -12,11 +12,11 @@
     "build": "ember build",
     "test": "ember test"
   },
-  "repository": "https://github.com/embersherpa/ember-crud.git",
+  "repository": "https://github.com/ekrabismi/CRUD-Ember-couchdb-.git",
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "Taras Mankovski <taras@embersherpa.com>",
+  "author": "Ekrabismi <ekrabismi@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.1.2",
