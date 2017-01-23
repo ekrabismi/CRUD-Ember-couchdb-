@@ -1,7 +1,7 @@
 {
   "name": "ember-crud",
   "version": "1.0.0",
-  "description": "Small description for ember-crud goes here",
+  "description": "A simple CRUD Ember app using pouch/couchdb on the backend on unbuntu 16 LTS.",
   "private": true,
   "directories": {
     "doc": "doc",
