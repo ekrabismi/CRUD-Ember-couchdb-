@@ -1,6 +1,5 @@
 {
   "name": "ember-crud",
-  "description": "A simple CRUD Ember app using pouch/couchdb on the backend on unbuntu 16 LTS.",
   "dependencies": {
     "Faker": "~3.0.0",
     "ember": "1.13.10",
@@ -18,12 +17,5 @@
     "pretender": "~0.7.0",
     "pure": "~0.6.0",
     "qunit": "~1.18.0"
-  },
-  "main": "dist/ember-couchdb-kit.min.js",
-  "ignore": [
-    "example",
-    "spec",
-    "src",
-    "Gruntfile.js"
-  ],
+  }
 }
