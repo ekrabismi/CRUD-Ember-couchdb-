@@ -1,4 +1,4 @@
-# Ember-crud
+# CRUD Ember app using pouch/couchdb
 
 This README outlines the details of collaborating on A simple CRUD Ember app using pouch/couchdb on the backend on unbuntu 16 LTS.
 A short introduction of this app could easily go here.
