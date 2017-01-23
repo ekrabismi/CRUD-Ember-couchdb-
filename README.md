@@ -47,7 +47,7 @@ Specify what it takes to deploy your app.
 
 ## Further Reading / Useful Links
 
+* [CRUD with CouchDB] (https://tanzimsaqib.wordpress.com/2015/05/25/crud-with-couchdb-in-node-js/)
 * [ember.js](http://emberjs.com/)
 * [ember-cli](http://www.ember-cli.com/)
-* [CRUD with CouchDB] (https://tanzimsaqib.wordpress.com/2015/05/25/crud-with-couchdb-in-node-js/)
 
