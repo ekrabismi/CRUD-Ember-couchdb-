@@ -1,6 +1,6 @@
 # Ember-crud
 
-This README outlines the details of collaborating on this Ember application.
+This README outlines the details of collaborating on A simple CRUD Ember app using pouch/couchdb on the backend on unbuntu 16 LTS.
 A short introduction of this app could easily go here.
 
 ## Prerequisites
@@ -47,7 +47,5 @@ Specify what it takes to deploy your app.
 
 * [ember.js](http://emberjs.com/)
 * [ember-cli](http://www.ember-cli.com/)
-* Development Browser Extensions
-  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+* [CRUD] (https://tanzimsaqib.wordpress.com/2015/05/25/crud-with-couchdb-in-node-js/)
 
